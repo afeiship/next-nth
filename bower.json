@@ -1,0 +1,26 @@
+{
+  "name": "next-nth",
+  "description": "Gets the element at index n of array. If n is negative, the nth element from the end is returned.",
+  "main": "dist/next-nth.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-nth",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
